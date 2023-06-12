@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho WordPress Multisite	</title>
-	<atom:link href="http://localhost/DoAnCuoiKy/multisite/comments/feed/?simply_static_page=2326" rel="self" type="application/rss+xml" />
-	<link>https://https://nmphuc23.github.io/DoAnCuoiKy</link>
+	<atom:link href="http://localhost/DoAnCuoiKy/multisite/comments/feed/?simply_static_page=3527" rel="self" type="application/rss+xml" />
+	<link>https://nmphuc23.github.io/DoAnCuoiKy</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2023 06:56:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
-		<link>https://https://nmphuc23.github.io/DoAnCuoiKy/2023/06/12/hello-world/#comment-1</link>
+		<link>https://nmphuc23.github.io/DoAnCuoiKy/2023/06/12/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 06:56:15 +0000</pubDate>
